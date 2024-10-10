@@ -23,6 +23,8 @@ Respuesta. Enuméralos en una tabla que tenga dos columnas (Nombre, enlace a doc
 
 Un tipo de pagina web, no se como se estructura.
 
+![Imagen de codigo](https://github.com/OscarRodriguez90/0373-A2-OscarRodriguez/blob/main/long-description%20(1).png "Imagen codigo ")
+
 ¿Qué es CSS?
 
 No se
